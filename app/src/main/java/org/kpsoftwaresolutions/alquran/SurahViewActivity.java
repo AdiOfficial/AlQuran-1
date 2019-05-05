@@ -45,6 +45,38 @@ public class SurahViewActivity extends AppCompatActivity {
                 is = this.getResources().openRawResource(R.raw.surah2);
                 getData();
                 break;
+            case 3:
+                is = this.getResources().openRawResource(R.raw.surah3);
+                getData();
+                break;
+            case 4:
+                is = this.getResources().openRawResource(R.raw.surah4);
+                getData();
+                break;
+            case 5:
+                is = this.getResources().openRawResource(R.raw.surah5);
+                getData();
+                break;
+            case 6:
+                is = this.getResources().openRawResource(R.raw.surah6);
+                getData();
+                break;
+            case 7:
+                is = this.getResources().openRawResource(R.raw.surah7);
+                getData();
+                break;
+            case 8:
+                is = this.getResources().openRawResource(R.raw.surah8);
+                getData();
+                break;
+            case 9:
+                is = this.getResources().openRawResource(R.raw.surah9);
+                getData();
+                break;
+            case 10:
+                is = this.getResources().openRawResource(R.raw.surah10);
+                getData();
+                break;
         }
     }
     public void getData() {

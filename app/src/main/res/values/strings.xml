@@ -1,7 +1,7 @@
 <resources>
     <string name="app_name">Al Quran</string>
     <string name="surah_1">আল ফাতিহা\nAl-Fatihah</string>
-    <string name="surah_2">আল বাক্বারাহ\nAl-Baqara</string>
+    <string name="surah_2">আল বাকবারাহ\nAl-Baqara</string>
     <string name="surah_3">আল ইমরান\nAl-Imran</string>
     <string name="surah_4">আন নিসা\nAn-Nisaa</string>
     <string name="surah_5">আল মায়েদাহ\nAl-Maidah</string>

@@ -30,12 +30,11 @@ public class MainActivity extends AppCompatActivity {
         menuInflater.inflate(R.menu.menu_layout,menu);
         return super.onCreateOptionsMenu(menu);
     }
-    @Override
+
+       @Override
     public boolean onOptionsItemSelected(MenuItem item) {
         switch (item.getItemId()) {
-            case R.id.aboutUs:
-                intent = new Intent(getApplicationContext(),AboutUsActivity.class);
-                startActivity(intent);
+            case R.id.aboutUs:;
                 Toast.makeText(getApplicationContext(),"About Us",Toast.LENGTH_SHORT).show();
                 break;
             case R.id.exit:
